@@ -1,0 +1,47 @@
+h1 {
+    font-size: 50px;
+}
+
+hr {
+    border: 5px solid #000;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+header{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#photo {
+    height: 400px;
+    border: 3px solid black;
+}
+
+#bio {
+    padding-left: 340px;
+    padding-right: 340px;
+    font-size: large;
+}
+
+#img-div {
+    text-align: center;
+}
+
+.projectList {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.image {
+    height: 100px;
+}
